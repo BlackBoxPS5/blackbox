@@ -27,3 +27,20 @@ diğerleri **isteğe bağlı** güncelleme görür.
 
 `tv-app.json`: `{filename: "PPSA21453.ffpkg", version, url, checksum, size,
 minimumVersion}` — aynı kural TV uygulaması için.
+
+
+## İndirme
+
+- **Uygulama sürümü:** [v1.0.1](https://github.com/D3ATHLY/blackbox/releases/tag/v1.0.1)
+  - `blackbox.elf` — tarayıcı/servis sürümü (payload)
+  - `PPSA01453.ffpkg` — TV uygulaması paketi
+  - Her ikisi için SHA-256 yayında.
+- **Akışlar:** [`updates/payloads.json`](updates/payloads.json), [`updates/tv-app.json`](updates/tv-app.json)
+  (uygulama açılışta ve 6 saatte bir okur)
+
+## Dokümanlar
+
+- [Kurulum](guides/getting-started.md) · [İndirmeler](guides/downloads.md) ·
+  [Kütüphane](guides/library.md) · [Sorun giderme](guides/troubleshooting.md)
+- [Sürüm notları](release-notes)
+- Uygulama arayüzü 8 dilde: Türkçe, English, Deutsch, Français, Español, Русский, العربية, Magyar.
