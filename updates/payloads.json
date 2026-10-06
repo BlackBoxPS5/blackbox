@@ -1,0 +1,11 @@
+{
+  "minimumVersion": "1.0.0-beta.1",
+  "payloads": [
+    {
+      "filename": "blackbox-v2.elf",
+      "version": "1.0.0-beta.1",
+      "url": "https://github.com/d3athly/blackbox/releases/download/1.0.0-beta.1/blackbox-v2.elf",
+      "checksum": "dd453d7c7bfc040e1a2b857ed8dfce2195171e5276c4328fa2fbeffdade38dda"
+    }
+  ]
+}
