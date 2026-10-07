@@ -1,20 +1,3 @@
 {
-  "messages": [
-    {
-      "id": "20261007-225919",
-      "ts": 1791403159,
-      "texts": {
-        "tr": "deneme",
-        "en": "test",
-        "de": "test",
-        "fr": "test",
-        "es": "-",
-        "ru": "на целостность",
-        "ar": ".",
-        "hu": "vizsgálat",
-        "it": "prova",
-        "pt": "teste"
-      }
-    }
-  ]
+  "messages": []
 }
