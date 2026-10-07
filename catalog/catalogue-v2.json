@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 26,
+  "revision": 27,
   "releases": [
     {
       "id": "ppsa04029-ffpfsc",
@@ -12219,7 +12219,7 @@
       "coverFallback": null,
       "heroFallback": null,
       "publisher": "Capcom U.S.A., Inc.",
-      "releaseDate": "2026-08-04",
+      "releaseDate": "2026-09-04",
       "artworkLayout": "wide",
       "addedAt": "2026-10-04T14:54:01+00:00",
       "sourceCheckedAt": "2026-10-04T02:42:03.430521+00:00",
@@ -12625,7 +12625,7 @@
       "coverFallback": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/PRAGMATA_DE.jpg",
       "heroFallback": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/PRAGMATA_DE.jpg",
       "publisher": "Capcom U.S.A., Inc.",
-      "releaseDate": "2026-05-27",
+      "releaseDate": "2026-08-04",
       "artworkLayout": "wide",
       "addedAt": "2026-10-04T14:54:01+00:00",
       "sourceCheckedAt": "2026-10-04T02:43:07.771793+00:00",
@@ -18999,7 +18999,7 @@
       "genre": "Shooter",
       "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2514/606363ddf40fc2a7ec23f78f5310de1d41008d316dc2c98d.png?w=600",
       "hero": "https://gmedia.playstation.com/is/image/SIEPDC/battlefield-6-hero-desktop-01-en-18jul25-1?$1600px$",
-      "releaseDate": "2026-09-04",
+      "releaseDate": "2026-05-27",
       "addedAt": "2026-10-07T15:57:02+00:00",
       "artworkLayout": "wide",
       "consoleVerified": false,
