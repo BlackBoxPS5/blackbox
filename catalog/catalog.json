@@ -18979,5 +18979,27 @@
     "sourceCheckedAt": "2026-10-04T02:22:59.906038+00:00",
     "consoleVerified": false,
     "sourceVerification": "file-metadata"
+  },
+  {
+    "id": "battlefield-6-ffpfsc",
+    "gameId": "battlefield-6",
+    "titleId": "PPSA19534",
+    "title": "Battlefield 6",
+    "filename": "PPSA19534 Battlefield 6 (01.000.016).ffpfsc",
+    "url": "https://archive.org/download/PPSA19534_Battlefield_6/PPSA19534%20Battlefield%206%20%2801.000.016%29.ffpfsc",
+    "sizeBytes": 137786753024,
+    "provider": "Archive.org",
+    "sourceId": "archive",
+    "format": "FFPFSC",
+    "version": "01.000.016",
+    "sha256": null,
+    "genre": "",
+    "cover": "",
+    "hero": "",
+    "releaseDate": "2026-10-07",
+    "addedAt": "2026-10-07T15:57:02+00:00",
+    "artworkLayout": "wide",
+    "consoleVerified": false,
+    "browserUrl": null
   }
 ]
