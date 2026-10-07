@@ -2911,9 +2911,9 @@
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2514/606363ddf40fc2a7ec23f78f5310de1d41008d316dc2c98d.png?w=600",
     "hero": "https://gmedia.playstation.com/is/image/SIEPDC/battlefield-6-hero-desktop-01-en-18jul25-1?$1600px$",
     "tagline": null,
-    "description": "Battlefield 6'yı resmî PlayStation internet sitesinde keşfedin. Topyekûn harbin nihai tecrübesini yaşayın.",
-    "coverFallback": null,
-    "heroFallback": null,
+    "description": null,
+    "coverFallback": "https://cdn.prosperopatches.com/titles/PPSA19534_9e86581f8849f1b29f6471259ba9fc9960ef07f99d6b53f40bac18380b2531fe/icon0.webp",
+    "heroFallback": "https://cdn.prosperopatches.com/titles/PPSA19534_9e86581f8849f1b29f6471259ba9fc9960ef07f99d6b53f40bac18380b2531fe/pic0.webp",
     "metadataUrl": "https://www.playstation.com/tr-tr/games/battlefield-6/"
   },
   {
