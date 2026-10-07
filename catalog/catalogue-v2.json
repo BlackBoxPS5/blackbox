@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 17,
+  "revision": 18,
   "releases": [
     {
       "id": "ppsa04029-ffpfsc",
@@ -18996,14 +18996,15 @@
       "format": "FFPFSC",
       "version": "01.000.016",
       "sha256": null,
-      "genre": "",
-      "cover": "",
-      "hero": "",
+      "genre": "Shooter",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2514/606363ddf40fc2a7ec23f78f5310de1d41008d316dc2c98d.png?w=600",
+      "hero": "https://gmedia.playstation.com/is/image/SIEPDC/battlefield-6-hero-desktop-01-en-18jul25-1?$1600px$",
       "releaseDate": "2026-10-07",
       "addedAt": "2026-10-07T15:57:02+00:00",
       "artworkLayout": "wide",
       "consoleVerified": false,
-      "browserUrl": null
+      "browserUrl": null,
+      "publisher": "EA Swiss Sarl"
     }
   ]
 }
