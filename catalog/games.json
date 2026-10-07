@@ -2912,8 +2912,8 @@
     "hero": "https://gmedia.playstation.com/is/image/SIEPDC/battlefield-6-hero-desktop-01-en-18jul25-1?$1600px$",
     "tagline": null,
     "description": null,
-    "coverFallback": "https://cdn.prosperopatches.com/titles/PPSA19534_9e86581f8849f1b29f6471259ba9fc9960ef07f99d6b53f40bac18380b2531fe/icon0.webp",
-    "heroFallback": "https://cdn.prosperopatches.com/titles/PPSA19534_9e86581f8849f1b29f6471259ba9fc9960ef07f99d6b53f40bac18380b2531fe/pic0.webp",
+    "coverFallback": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Battlefield_6.avif",
+    "heroFallback": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Battlefield_6.avif",
     "metadataUrl": "https://www.playstation.com/tr-tr/games/battlefield-6/"
   },
   {
