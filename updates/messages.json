@@ -1,35 +1,19 @@
 {
   "messages": [
     {
-      "id": "20261008-023734",
-      "ts": 1791416254,
+      "id": "20261008-024000",
+      "ts": 1791416400,
       "texts": {
-        "tr": "beta1.0.6v2",
-        "en": "beta1.0.6v2",
-        "de": "beta1.0.6v2",
-        "fr": "beta1.0.6v2",
-        "es": "beta1.0.6v2",
-        "ru": "beta1.0.6v2",
-        "ar": "beta1.0.6v2",
-        "hu": "béta1.0.6v2",
-        "it": "beta1.0.6v2",
-        "pt": "beta1.0.6v2"
-      }
-    },
-    {
-      "id": "20261008-020753",
-      "ts": 1791414473,
-      "texts": {
-        "tr": "beta 1.0.6",
-        "en": "beta 1.0.6",
-        "de": "beta 1.0.6",
-        "fr": "beta 1.0.6",
-        "es": "beta 1.0.6",
-        "ru": "бета 1.0.6",
-        "ar": "بيتا 1.0.6",
-        "hu": "béta 1.0.6",
-        "it": "beta 1.0.6",
-        "pt": "beta 1.0.6"
+        "tr": "Oyun kataloğu güncellendi. İyi eğlenceler dileriz!",
+        "en": "Game catalog has been updated. Have fun!",
+        "de": "Der Spielkatalog wurde aktualisiert. Viel Spaß!",
+        "fr": "Le catalogue de jeux a été mis à jour. Amusez-vous bien!",
+        "es": "El catálogo de juegos ha sido actualizado. ¡Que se diviertan!",
+        "ru": "Каталог игр обновлен. Хорошего времяпровождения!",
+        "ar": "تم تحديث كتالوج الألعاب. استمتع باللعب!",
+        "hu": "A játékkatalógus frissítve lett. Jó szórakozást!",
+        "it": "Il catalogo dei giochi è stato aggiornato. Buon divertimento!",
+        "pt": "O catálogo de jogos foi atualizado. Divirta-se!"
       }
     }
   ]
