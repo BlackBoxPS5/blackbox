@@ -823,6 +823,19 @@
     "metadataUrl": "https://store.playstation.com/en-us/product/HP4226-PPSA27366_00-0697535294250993"
   },
   {
+    "id": "alan-wake-2",
+    "title": "Alan Wake 2",
+    "genre": "",
+    "tagline": "Two heroes, one nightmare.",
+    "description": "Writer Alan Wake and FBI agent Saga Anderson face a story that is rewriting reality, in Remedy’s survival horror.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA02572_25d7e68bc899aa7555fcb8efc5129831a75001aa7c56790bfb74e9d3099b971c/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA02572_25d7e68bc899aa7555fcb8efc5129831a75001aa7c56790bfb74e9d3099b971c/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2023-10-27",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
     "id": "alex-kidd-in-miracle-world-dx",
     "title": "Alex Kidd in Miracle World DX",
     "genre": "Action",
@@ -1006,6 +1019,21 @@
       "httpStatus": 206,
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     }
+  },
+  {
+    "id": "alone-in-the-dark",
+    "title": "Alone in the Dark",
+    "genre": "",
+    "tagline": "Welcome to Derceto.",
+    "description": "Edward Carnby and Emily Hartwood search a Southern mansion for her missing uncle, in a reimagining of the survival horror classic.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA08135_4de64495e05ae9853ab551e12eaa27d4cbb10cd68bb89e76a07588755479ca06/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA08135_4de64495e05ae9853ab551e12eaa27d4cbb10cd68bb89e76a07588755479ca06/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1015/b3a91fa43661ced3d57a908c26f5bfab057584343be6f618.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1015/b3a91fa43661ced3d57a908c26f5bfab057584343be6f618.png?w=260",
+    "publisher": "",
+    "releaseDate": "2024-03-20",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "alone-in-the-dark-2-1996",
@@ -1620,6 +1648,34 @@
       "httpStatus": 206,
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     }
+  },
+  {
+    "id": "assassin-s-creed-valhalla",
+    "title": "Assassin's Creed Valhalla",
+    "genre": "",
+    "tagline": "Raid. Settle. Conquer.",
+    "description": "Eivor leads a Viking clan from Norway to settle in 9th-century England, with all expansions in the Complete Edition.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA01532_1a95db17f8fea3796263253b3ebf5c021a725f8e9c397721889f6d12a420be95/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA01532_1a95db17f8fea3796263253b3ebf5c021a725f8e9c397721889f6d12a420be95/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2020-11-12",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
+    "id": "assassins-creed-mirage",
+    "title": "Assassin’s Creed Mirage",
+    "genre": "",
+    "tagline": "Back to the shadows.",
+    "description": "Basim rises from street thief to Hidden One in 9th-century Baghdad, in a stealth-focused return to the series’ roots.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA07230_15e3b5e02b497ffba73ebf1bbcd452556c034d9866bc5dc68e39d9b9b4101d2c/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA07230_15e3b5e02b497ffba73ebf1bbcd452556c034d9866bc5dc68e39d9b9b4101d2c/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1718/phwiQjbJddEg979YucUoP3Vr.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1718/phwiQjbJddEg979YucUoP3Vr.png?w=260",
+    "publisher": "",
+    "releaseDate": "2023-10-05",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "assassins-creed-shadows",
@@ -2265,6 +2321,21 @@
     }
   },
   {
+    "id": "astro-bot",
+    "title": "Astro Bot",
+    "genre": "",
+    "tagline": "Bring the crew home.",
+    "description": "Astro crash-lands across dozens of planets to rescue his crew, in a joyful platformer full of PlayStation nods.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA21567_6620fc5351f8e4ac8575521b3d89d336b23b7484277a38f954e1131082010c2d/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA21567_6620fc5351f8e4ac8575521b3d89d336b23b7484277a38f954e1131082010c2d/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/8f15268257b878597757fcc5f2c9545840867bc71fc863b1.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/8f15268257b878597757fcc5f2c9545840867bc71fc863b1.png?w=260",
+    "publisher": "",
+    "releaseDate": "2024-09-06",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
     "id": "astro-s-playroom",
     "title": "Astro's Playroom",
     "genre": "Action",
@@ -2800,6 +2871,21 @@
       "httpStatus": 206,
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     }
+  },
+  {
+    "id": "baldurs-gate-3",
+    "title": "Baldur’s Gate 3",
+    "genre": "",
+    "tagline": "Abducted, infected, lost.",
+    "description": "Gather a party and resist the mind flayer parasite inside you, in a deep, choice-driven RPG set in Dungeons & Dragons’ world.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA14002_7eafd801e69a9de4b76b9e282b0e4fd8c3eb2221cc31d566a50e076b20ccb43e/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA14002_7eafd801e69a9de4b76b9e282b0e4fd8c3eb2221cc31d566a50e076b20ccb43e/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/ba706e54d68d10a0eb6ab7c36cdad9178c58b7fb7bb03d28.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/ba706e54d68d10a0eb6ab7c36cdad9178c58b7fb7bb03d28.png?w=260",
+    "publisher": "",
+    "releaseDate": "2023-09-06",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "barbie-project-friendship",
@@ -3344,6 +3430,36 @@
       "httpStatus": 206,
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     }
+  },
+  {
+    "id": "biomutant",
+    "title": "Biomutant",
+    "genre": "",
+    "tagline": "A kung fu fable.",
+    "description": "An open-world post-apocalyptic RPG where a mutant raccoon-like hero mixes martial arts, shooting and mutant powers.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA06255_fc84eddae28a067ce2776016e422299eded29bccd2984d7786de230bab997483/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA06255_fc84eddae28a067ce2776016e422299eded29bccd2984d7786de230bab997483/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202102/0418/cfbTDvs2m1P9mArX74ClI9HR.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202102/0418/cfbTDvs2m1P9mArX74ClI9HR.png?w=260",
+    "publisher": "",
+    "releaseDate": "2022-09-06",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
+    "id": "black-myth-wukong",
+    "title": "Black Myth: Wukong",
+    "genre": "",
+    "tagline": "Walk the path of the Destined One.",
+    "description": "An action RPG rooted in Journey to the West, battling legendary beasts and gods across mythic Chinese landscapes.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA23226_2abf3aa1290f28440396a473e68bd0b3c94f9046bf50f7f9bcc4ff76a30901b9/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA23226_2abf3aa1290f28440396a473e68bd0b3c94f9046bf50f7f9bcc4ff76a30901b9/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2117/bd406f42e9352fdb398efcf21a4ffe575b2306ac40089d21.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2117/bd406f42e9352fdb398efcf21a4ffe575b2306ac40089d21.png?w=260",
+    "publisher": "",
+    "releaseDate": "2024-08-20",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "blacksad-under-the-skin",
@@ -4332,6 +4448,21 @@
     }
   },
   {
+    "id": "brothers-a-tale-of-two-sons-remake",
+    "title": "Brothers: A Tale of Two Sons Remake",
+    "genre": "",
+    "tagline": "Two brothers, one journey.",
+    "description": "Control two brothers at once as they cross a fairy-tale world to find a cure for their dying father.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA14501_d38325068f7a9c31232fd04a374282931e9607c755c0b094b962c36a5db0d581/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA14501_d38325068f7a9c31232fd04a374282931e9607c755c0b094b962c36a5db0d581/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2219/ec6ee0fb9c9419a77e360f50d5597ea1759e15254f289199.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2219/ec6ee0fb9c9419a77e360f50d5597ea1759e15254f289199.png?w=260",
+    "publisher": "",
+    "releaseDate": "2024-02-28",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
     "id": "bud-spencer-terence-hill-slaps-and-beans-2",
     "title": "Bud Spencer Terence Hill Slaps And Beans 2",
     "genre": "Action",
@@ -4504,6 +4635,36 @@
     }
   },
   {
+    "id": "call-of-duty-black-ops-cold-war",
+    "title": "Call of Duty: Black Ops Cold War",
+    "genre": "",
+    "tagline": "Know your history.",
+    "description": "A Cold War spy thriller set in the early 1980s, hunting a Soviet agent called Perseus, with multiplayer and Zombies.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA01628_c585251f9af2dc26e8965c8aad0877e249bd43fba9d691df44f1f6a21807f58b/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA01628_c585251f9af2dc26e8965c8aad0877e249bd43fba9d691df44f1f6a21807f58b/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202112/0618/cFLNC3xYfEdDl7D1Wvu4MVb1.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202112/0618/cFLNC3xYfEdDl7D1Wvu4MVb1.png?w=260",
+    "publisher": "",
+    "releaseDate": "2020-11-13",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
+    "id": "call-of-duty-modern-warfare-ii",
+    "title": "Call of Duty: Modern Warfare II",
+    "genre": "",
+    "tagline": "Task Force 141 returns.",
+    "description": "Captain Price, Ghost and Soap hunt an Iranian general and a cartel, alongside multiplayer and co-op modes.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA23012_18c8f00a26c22a9f57c09a2c87e7c1bf38dd0fb2a814333af331d8abfcbfe581/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA23012_18c8f00a26c22a9f57c09a2c87e7c1bf38dd0fb2a814333af331d8abfcbfe581/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202405/1623/3f88cb803cf3ead5ef4c4b4d7389bea263687ee79f1761a9.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202405/1623/3f88cb803cf3ead5ef4c4b4d7389bea263687ee79f1761a9.png?w=260",
+    "publisher": "",
+    "releaseDate": "2022-10-28",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
     "id": "call-of-duty-modern-warfare-iii",
     "title": "Call of Duty: Modern Warfare III",
     "genre": null,
@@ -4558,6 +4719,21 @@
       "httpStatus": 206,
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     }
+  },
+  {
+    "id": "call-of-duty-vanguard",
+    "title": "Call of Duty: Vanguard",
+    "genre": "",
+    "tagline": "The birth of special forces.",
+    "description": "A World War II campaign following a multinational squad across four fronts, plus multiplayer and Zombies.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA01687_fcf623c2bb42060a68ecf1ca74b51341c30acd7cc5c8df2c45037f38742336eb/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA01687_fcf623c2bb42060a68ecf1ca74b51341c30acd7cc5c8df2c45037f38742336eb/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2402/icByXGm1W5mQmol84yMxEgD2.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2402/icByXGm1W5mQmol84yMxEgD2.png?w=260",
+    "publisher": "",
+    "releaseDate": "2021-11-05",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "cant-drive-this",
@@ -5237,6 +5413,19 @@
     }
   },
   {
+    "id": "control-ultimate-edition",
+    "title": "Control Ultimate Edition",
+    "genre": "",
+    "tagline": "The Oldest House awaits.",
+    "description": "Jesse Faden becomes Director of a secret agency and fights a supernatural threat with telekinetic powers, with both expansions.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA01949_2defd388b504fe2b0b18c33a23df3232fdbc0e79df65bb92870adc7fc23a5f94/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA01949_2defd388b504fe2b0b18c33a23df3232fdbc0e79df65bb92870adc7fc23a5f94/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2021-02-02",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
     "id": "crash-bandicoot-4-its-about-time",
     "title": "Crash Bandicoot 4: It’s About Time",
     "genre": "Action",
@@ -5285,6 +5474,21 @@
       "httpStatus": 206,
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     }
+  },
+  {
+    "id": "crimson-desert",
+    "title": "Crimson Desert",
+    "genre": "",
+    "tagline": "Welcome to Pywel.",
+    "description": "Kliff leads a band of mercenaries across the vast open continent of Pywel, in an action adventure full of discovery.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA25286_0fd95d085300fe71188da182cabd371a53a2d27b207dbe287af020761410dde6/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA25286_0fd95d085300fe71188da182cabd371a53a2d27b207dbe287af020761410dde6/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2006/e8f306c89efa555a13e4d3910dafda994a14b2355f342802.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2006/e8f306c89efa555a13e4d3910dafda994a14b2355f342802.png?w=260",
+    "publisher": "",
+    "releaseDate": "2026-03-19",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "cris-tales",
@@ -6108,6 +6312,62 @@
     "metadataUrl": "https://store.playstation.com/en-us/concept/10005421"
   },
   {
+    "id": "days-gone-remastered",
+    "title": "Days Gone Remastered",
+    "genre": "",
+    "tagline": "Survival on two wheels.",
+    "description": "Drifter Deacon St. John rides through post-pandemic Oregon, surviving huge hordes of infected, remastered for PS5.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA28180_52d0eb9d50748574d0312b57df691dee90bdbf95a4b147c7b6945585fe392a4e/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA28180_52d0eb9d50748574d0312b57df691dee90bdbf95a4b147c7b6945585fe392a4e/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/img/rnd/202011/1204/wYL4v2r8uMQFvVTJlfuj8ICk.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/img/rnd/202011/1204/wYL4v2r8uMQFvVTJlfuj8ICk.png?w=260",
+    "publisher": "",
+    "releaseDate": "2025-04-25",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
+    "id": "dead-space",
+    "title": "Dead Space",
+    "genre": "",
+    "tagline": "Cut off their limbs.",
+    "description": "Engineer Isaac Clarke boards a mining ship overrun by Necromorphs, in a rebuilt remake of the sci-fi horror classic.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA03845_e58e85def435c0aaeec43dadbdfe08cf59fbedca915c4824c1fd0459c5c93305/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA03845_e58e85def435c0aaeec43dadbdfe08cf59fbedca915c4824c1fd0459c5c93305/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2023-01-27",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
+    "id": "death-stranding-2-on-the-beach",
+    "title": "Death Stranding 2: On the Beach",
+    "genre": "",
+    "tagline": "Should we have connected?",
+    "description": "Sam Porter Bridges sets out again with a new crew to connect regions beyond the UCA, in Kojima Productions’ sequel.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA02015_d9bbc0973ca57b68f21b837e4773bca1c9845b51ad50d77607be2e487cd9f69f/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA02015_d9bbc0973ca57b68f21b837e4773bca1c9845b51ad50d77607be2e487cd9f69f/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2025-06-26",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
+    "id": "death-stranding-directors-cut",
+    "title": "Death Stranding Director’s Cut",
+    "genre": "",
+    "tagline": "Reconnect a broken world.",
+    "description": "Courier Sam Porter Bridges crosses a ruined America to reconnect its cities, in the expanded Director’s Cut of Kojima’s game.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA01968_4da51fea2eb9678cd19813a502e38c79741d3484082b180874b11d2b01f8ef43/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA01968_4da51fea2eb9678cd19813a502e38c79741d3484082b180874b11d2b01f8ef43/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/img/rnd/202009/2921/40aD0BqRUHyHdXdC6nwtwON5.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/img/rnd/202009/2921/40aD0BqRUHyHdXdC6nwtwON5.png?w=260",
+    "publisher": "",
+    "releaseDate": "2021-09-24",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
     "id": "deathloop-deluxe-edition",
     "title": "DEATHLOOP Deluxe Edition",
     "genre": "Action",
@@ -6350,6 +6610,21 @@
       "httpStatus": 206,
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     }
+  },
+  {
+    "id": "demons-souls",
+    "title": "Demon’s Souls",
+    "genre": "",
+    "tagline": "Return to Boletaria.",
+    "description": "A ground-up remake of the PlayStation classic, fighting through a fog-shrouded kingdom ruled by demons.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA01342_d444846b079d8b81dad513ece3a2b1148f46fc6139622a7900e3984cbd7918c0/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA01342_d444846b079d8b81dad513ece3a2b1148f46fc6139622a7900e3984cbd7918c0/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/img/rnd/202011/1717/GemRaOZaCMhGxQ9dRhnQQyT5.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/img/rnd/202011/1717/GemRaOZaCMhGxQ9dRhnQQyT5.png?w=260",
+    "publisher": "",
+    "releaseDate": "2020-11-12",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "destroy-all-humans-2-reprobed",
@@ -6641,6 +6916,21 @@
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     },
     "metadataUrl": "https://store.playstation.com/en-us/product/EP8253-PPSA16384_00-SMGDARKPICSDLXB1/"
+  },
+  {
+    "id": "dirt-5",
+    "title": "DIRT 5",
+    "genre": "",
+    "tagline": "Off-road, all-out.",
+    "description": "Arcade off-road racing around the world in rally cars, trucks and buggies, with split-screen and a track builder.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA01552_c67481f6807360bc8679f91774e5a105a029306bd9e819bf114d9b71dacfeb33/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA01552_c67481f6807360bc8679f91774e5a105a029306bd9e819bf114d9b71dacfeb33/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/img/rnd/202007/2111/AU9y67cQ8s4t6S0Tg2peRQ5s.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/img/rnd/202007/2111/AU9y67cQ8s4t6S0Tg2peRQ5s.png?w=260",
+    "publisher": "",
+    "releaseDate": "2020-11-12",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "disciples-liberation",
@@ -7274,6 +7564,19 @@
     "metadataUrl": "https://store.playstation.com/en-us/concept/232624/"
   },
   {
+    "id": "doom-the-dark-ages",
+    "title": "DOOM: The Dark Ages",
+    "genre": "",
+    "tagline": "Medieval hellfire.",
+    "description": "The DOOM Slayer fights a medieval war against Hell’s legions with a shield saw, mechs and a cyber-dragon.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA20560_fa8ac880a132895b495094946ab5ab7404d724ce652dc69281072d72a526fc37/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA20560_fa8ac880a132895b495094946ab5ab7404d724ce652dc69281072d72a526fc37/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2025-05-15",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
     "id": "doraemon-story-of-seasons-friends-of-the-great-kingdom",
     "title": "Doraemon Story of Seasons: Friends of the Great Kingdom",
     "genre": "Simulation",
@@ -7663,6 +7966,21 @@
       "httpStatus": 206,
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     }
+  },
+  {
+    "id": "dragon-ball-sparking-zero",
+    "title": "Dragon Ball: Sparking! Zero",
+    "genre": "",
+    "tagline": "Earth-shaking battles.",
+    "description": "A 3D arena fighter in the style of Budokai Tenkaichi, with a huge Dragon Ball roster and destructible battlefields.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA15211_d3289700dc7d3ba17ba86db80ad614c914cd150e5e05ecfa68fac328fc9b8fd2/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA15211_d3289700dc7d3ba17ba86db80ad614c914cd150e5e05ecfa68fac328fc9b8fd2/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2306/e940c07107a4cefbbedbbd53451e26f0dbf292dcfab6c307.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2306/e940c07107a4cefbbedbbd53451e26f0dbf292dcfab6c307.png?w=260",
+    "publisher": "",
+    "releaseDate": "2024-10-11",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "dragon-quest-vii-reimagined",
@@ -8055,6 +8373,21 @@
     "metadataUrl": "https://store.playstation.com/en-us/product/UP0031-PPSA06564_00-DUSKDIVER2000001"
   },
   {
+    "id": "dying-light-2-stay-human",
+    "title": "Dying Light 2: Stay Human",
+    "genre": "",
+    "tagline": "Stay human.",
+    "description": "Parkour across one of the last cities of humanity and fight the infected at night, making choices that change the city.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA02262_b80bdb2ec7f49dbbd995c0e4eba8bc598bcdb321108e48939c074a7d3c60a398/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA02262_b80bdb2ec7f49dbbd995c0e4eba8bc598bcdb321108e48939c074a7d3c60a398/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202501/3115/3c17bf3bb4c9b5b572f69217554f0afdebade3a37959bac3.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202501/3115/3c17bf3bb4c9b5b572f69217554f0afdebade3a37959bac3.png?w=260",
+    "publisher": "",
+    "releaseDate": "2022-02-04",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
     "id": "ea-sports-college-football-25",
     "title": "EA Sports College Football 25",
     "genre": "Sport",
@@ -8114,6 +8447,34 @@
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     },
     "metadataUrl": "https://store.playstation.com/en-us/product/UP0006-PPSA04184_00-COLLEGEFOOTBALL0/"
+  },
+  {
+    "id": "ea-sports-fc-26",
+    "title": "EA Sports FC 26",
+    "genre": "",
+    "tagline": "The club is yours.",
+    "description": "EA’s football game with licensed leagues, clubs and players, Career Mode, Ultimate Team and online modes.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA27360_d11b5e89e9733352c37978c8e0c40e5f6838c87060ad84168bc2b9ddbacda027/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA27360_d11b5e89e9733352c37978c8e0c40e5f6838c87060ad84168bc2b9ddbacda027/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2025-09-26",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
+    "id": "ea-sports-ufc-5",
+    "title": "EA Sports UFC 5",
+    "genre": "",
+    "tagline": "As real as it gets.",
+    "description": "The official UFC game, with realistic fighters, damage that changes the fight and a range of career and online modes.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA03541_2c3ce3f665cc4b0d430aa1f075b47321eaae242d330e2dc1a44cf7c387e0d3a8/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA03541_2c3ce3f665cc4b0d430aa1f075b47321eaae242d330e2dc1a44cf7c387e0d3a8/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0421/418704276d35ce02e8cb532c6ca3826cf866ad2ec66c0b17.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0421/418704276d35ce02e8cb532c6ca3826cf866ad2ec66c0b17.png?w=260",
+    "publisher": "",
+    "releaseDate": "2023-10-27",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "ea-sports-wrc",
@@ -8424,6 +8785,19 @@
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     },
     "metadataUrl": "https://store.playstation.com/en-us/product/JP0101-PPSA25348_00-EDENSZEROPS50000"
+  },
+  {
+    "id": "elden-ring",
+    "title": "Elden Ring",
+    "genre": "",
+    "tagline": "Rise, Tarnished.",
+    "description": "Explore the Lands Between and claim the Elden Ring in FromSoftware’s open-world action RPG, with the Shadow of the Erdtree expansion.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA04609_955a456fde9da185b7b637b8ae043147c562f8adcaec394d4e6b70d58f3c7fd5/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA04609_955a456fde9da185b7b637b8ae043147c562f8adcaec394d4e6b70d58f3c7fd5/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2022-02-25",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "title": "Elden Ring Nightreign",
@@ -10036,6 +10410,20 @@
     "metadataUrl": "https://store.playstation.com/en-us/product/UP0082-PPSA01903_00-5827003902180177"
   },
   {
+    "id": "final-fantasy-xvi",
+    "title": "Final Fantasy XVI",
+    "genre": "",
+    "tagline": "The Mothercrystals must fall.",
+    "description": "Clive Rosfield seeks revenge in a dark fantasy world ruled by Eikons, with real-time action and colossal summon battles.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA10665_b9fbc0e37ca60e56c7fb66c4007b27938478e64025b467407ef879d149dcae15/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA10665_b9fbc0e37ca60e56c7fb66c4007b27938478e64025b467407ef879d149dcae15/pic0.webp",
+    "heroFallback": "https://cdn.prosperopatches.com/titles/PPSA10665_b9fbc0e37ca60e56c7fb66c4007b27938478e64025b467407ef879d149dcae15/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2023-06-22",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
     "id": "final-vendetta",
     "title": "Final Vendetta",
     "genre": "Fighting",
@@ -10456,6 +10844,19 @@
     "metadataUrl": "https://store.playstation.com/en-us/product/UP1309-PPSA14374_00-FORTSOLISPS5SIEA"
   },
   {
+    "id": "forza-horizon-5",
+    "title": "Forza Horizon 5",
+    "genre": "",
+    "tagline": "Your Horizon adventure in Mexico.",
+    "description": "Drive hundreds of cars across a vast open-world Mexico, from jungles to volcanoes, in the festival racer.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA22327_332d734000ebc69c9865c225d9b2c056e0525ce029686815b8904d049d27fa26/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA22327_332d734000ebc69c9865c225d9b2c056e0525ce029686815b8904d049d27fa26/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2025-04-29",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
     "id": "frostpunk-2",
     "title": "Frostpunk 2",
     "genre": "Strategy",
@@ -10750,6 +11151,19 @@
     "metadataUrl": "https://store.playstation.com/en-us/product/UP1475-PPSA05027_00-GCUHDPS5000000US/"
   },
   {
+    "id": "gears-of-war-reloaded",
+    "title": "Gears of War: Reloaded",
+    "genre": "",
+    "tagline": "Where Gears began.",
+    "description": "Marcus Fenix and Delta Squad fight the Locust Horde in a remastered first Gears of War, with campaign co-op and versus.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA17525_d8ec6915bbdd859ce1a5203791b253fc62f965c78a93c068609a43f187d18687/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA17525_d8ec6915bbdd859ce1a5203791b253fc62f965c78a93c068609a43f187d18687/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2025-08-26",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
     "id": "gex-trilogy",
     "title": "Gex Trilogy",
     "genre": "Action",
@@ -10870,6 +11284,34 @@
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     },
     "metadataUrl": "https://store.playstation.com/en-us/product/UP3458-PPSA34038_00-GHOSTMASTERRCORE/"
+  },
+  {
+    "id": "ghost-of-tsushima-director-s-cut",
+    "title": "Ghost of Tsushima Director's Cut",
+    "genre": "",
+    "tagline": "Become the Ghost.",
+    "description": "Samurai Jin Sakai abandons tradition to defend Tsushima from the Mongol invasion, with the Iki Island expansion.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA02225_f96c456a2ddc2c81220a383d307c1c1237280df27d7d68b60e95f31803f3863a/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA02225_f96c456a2ddc2c81220a383d307c1c1237280df27d7d68b60e95f31803f3863a/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0222/niMUubpU9y1PxNvYmDfb8QFD.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0222/niMUubpU9y1PxNvYmDfb8QFD.png?w=260",
+    "publisher": "",
+    "releaseDate": "2021-08-20",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
+    "id": "ghost-of-yotei",
+    "title": "Ghost of Yōtei",
+    "genre": "",
+    "tagline": "Vengeance in the north.",
+    "description": "Atsu, a lone mercenary, hunts the gang that killed her family in the wilds around Mount Yōtei in 1603.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA26344_64b41e265a7c7f2ed67c0f7fe285ebbc7674c657a18fdfa46fac9c81073c4e37/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA26344_64b41e265a7c7f2ed67c0f7fe285ebbc7674c657a18fdfa46fac9c81073c4e37/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2025-10-02",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "ghost-song",
@@ -11132,6 +11574,19 @@
     }
   },
   {
+    "id": "ghostwire-tokyo",
+    "title": "Ghostwire: Tokyo",
+    "genre": "",
+    "tagline": "Tokyo has vanished.",
+    "description": "Akito uses spiritual powers to fight supernatural visitors in a Tokyo where everyone has disappeared.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA01337_82eb283ab14e353dd5e7c9852c23f6623ff3f3a4c1a79e33a0efe684b1c6047d/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA01337_82eb283ab14e353dd5e7c9852c23f6623ff3f3a4c1a79e33a0efe684b1c6047d/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2022-03-25",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
     "id": "gigantosaurus-dino-kart",
     "title": "Gigantosaurus Dino Kart",
     "genre": "Family / Action / Driving/Racing",
@@ -11304,6 +11759,19 @@
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     },
     "metadataUrl": "https://store.playstation.com/en-us/concept/10005216/"
+  },
+  {
+    "id": "god-of-war-ragnarok",
+    "title": "God of War Ragnarök",
+    "genre": "",
+    "tagline": "Ragnarök is coming.",
+    "description": "Kratos and Atreus journey across the Nine Realms in search of answers as Norse gods prepare for the final battle.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA08330_8251a11b47c7fba734914a25481b1f738ad0de8bfc69c6a71f4540828589bf15/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA08330_8251a11b47c7fba734914a25481b1f738ad0de8bfc69c6a71f4540828589bf15/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2022-11-09",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "goosebumps-terror-in-little-creek",
@@ -11486,6 +11954,21 @@
     }
   },
   {
+    "id": "granblue-fantasy-relink",
+    "title": "Granblue Fantasy: Relink",
+    "genre": "",
+    "tagline": "Sail the skies together.",
+    "description": "An action RPG in the Granblue Fantasy world, travelling the sky realm with your crew, solo or in online co-op.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA06955_ca07f95b2d71d4d8d5ef64c833daa09b89cbeb32cec486c22c12feab55799ad1/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA06955_ca07f95b2d71d4d8d5ef64c833daa09b89cbeb32cec486c22c12feab55799ad1/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0403/c72af8212e6bfbe853cb3769b3b6513d0685a497227c23ad.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0403/c72af8212e6bfbe853cb3769b3b6513d0685a497227c23ad.png?w=260",
+    "publisher": "",
+    "releaseDate": "2024-02-01",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
     "id": "grand-theft-auto-iii-the-definitive-edition",
     "title": "Grand Theft Auto III – The Definitive Edition",
     "genre": null,
@@ -11533,6 +12016,19 @@
       "httpStatus": 206,
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     }
+  },
+  {
+    "id": "grand-theft-auto-v",
+    "title": "Grand Theft Auto V",
+    "genre": "",
+    "tagline": "Three criminals, one city.",
+    "description": "Michael, Franklin and Trevor pull off heists across Los Santos, plus access to the online world of GTA Online.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA04264_1567b861257a9f74cc2b150146c6bbed1c99aba0c443946f79af2f52faf28a9a/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA04264_1567b861257a9f74cc2b150146c6bbed1c99aba0c443946f79af2f52faf28a9a/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2022-03-15",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "grand-theft-auto-san-andreas-the-definitive-edition",
@@ -12262,6 +12758,21 @@
     }
   },
   {
+    "id": "hell-is-us",
+    "title": "Hell Is Us",
+    "genre": "",
+    "tagline": "The worst demons are human.",
+    "description": "Explore an isolated country torn by civil war and an unexplained calamity, finding your way without maps or markers.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA09259_638ed2739701c1bdf80248aaef6b0512668e5876a5458b4ae3f68a4b8f0cb963/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA09259_638ed2739701c1bdf80248aaef6b0512668e5876a5458b4ae3f68a4b8f0cb963/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1208/881d62059f98b7d5191eae48029004d5052df238da708d5b.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1208/881d62059f98b7d5191eae48029004d5052df238da708d5b.png?w=260",
+    "publisher": "",
+    "releaseDate": "2025-09-04",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
     "id": "hello-kitty-island-adventure",
     "title": "Hello Kitty Island Adventure",
     "genre": "Simulation",
@@ -12889,6 +13400,34 @@
     }
   },
   {
+    "id": "horizon-forbidden-west-complete-edition",
+    "title": "Horizon Forbidden West: Complete Edition",
+    "genre": "",
+    "tagline": "Brave the Forbidden West.",
+    "description": "Aloy heads west into a dangerous frontier to stop a spreading blight, with the Burning Shores expansion included.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA17905_c72b96acb23b525856b138e191206f108ed85f4a4b825d1b1b945e5e8349a746/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA17905_c72b96acb23b525856b138e191206f108ed85f4a4b825d1b1b945e5e8349a746/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2023-10-06",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
+    "id": "horizon-zero-dawn-remastered",
+    "title": "Horizon Zero Dawn Remastered",
+    "genre": "",
+    "tagline": "Earth is ours no more.",
+    "description": "Aloy, an outcast hunter, uncovers the secret of a world ruled by machines, in a remastered version of the open-world adventure.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA13427_e062cea15d87125d528a01a6a20f6fc5640f17fd252dfd847507b98a1363145d/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA13427_e062cea15d87125d528a01a6a20f6fc5640f17fd252dfd847507b98a1363145d/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0221/vC7trMorHJgbImp8PCQvpI0p.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0221/vC7trMorHJgbImp8PCQvpI0p.png?w=260",
+    "publisher": "",
+    "releaseDate": "2024-10-31",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
     "id": "horror-tales-the-wine",
     "title": "Horror Tales The Wine",
     "genre": "Horror",
@@ -13392,6 +13931,21 @@
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     },
     "metadataUrl": "https://store.playstation.com/en-us/concept/10001487/"
+  },
+  {
+    "id": "indiana-jones-and-the-great-circle",
+    "title": "Indiana Jones and the Great Circle",
+    "genre": "",
+    "tagline": "Adventure is calling.",
+    "description": "Indiana Jones races rivals across the globe in 1937 to uncover an ancient mystery, in a first-person adventure.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA26786_6417d9d76542f6966578e8ed4889d91e23658821bfc2fc7a2fd88f4cbac266cd/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA26786_6417d9d76542f6966578e8ed4889d91e23658821bfc2fc7a2fd88f4cbac266cd/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1520/76248a273eb9e5f940cb4793256b30c165536acafe602483.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1520/76248a273eb9e5f940cb4793256b30c165536acafe602483.png?w=260",
+    "publisher": "",
+    "releaseDate": "2025-04-17",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "indika",
@@ -14603,6 +15157,19 @@
     "metadataUrl": "https://store.playstation.com/en-us/concept/10010911/"
   },
   {
+    "id": "kena-bridge-of-spirits",
+    "title": "Kena: Bridge of Spirits",
+    "genre": "",
+    "tagline": "Guide the lost spirits home.",
+    "description": "Kena, a young spirit guide, explores an abandoned village with her tiny Rot companions, freeing spirits trapped by trauma.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA01746_19cd5576cc62e5ff8a016a19e3a7a1c9f3d7b592ef552013be986a9d7fbbb5f4/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA01746_19cd5576cc62e5ff8a016a19e3a7a1c9f3d7b592ef552013be986a9d7fbbb5f4/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2021-09-21",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
     "id": "kerbal-space-program-enhanced-complete-edition",
     "title": "Kerbal Space Program Enhanced Complete Edition",
     "genre": null,
@@ -15481,6 +16048,21 @@
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     },
     "metadataUrl": "https://store.playstation.com/en-us/product/EP1018-PPSA22946_00-HARRYPOTTER17000"
+  },
+  {
+    "id": "lego-horizon-adventures",
+    "title": "LEGO Horizon Adventures",
+    "genre": "",
+    "tagline": "Aloy, in bricks.",
+    "description": "Aloy and friends battle LEGO machines in a light-hearted co-op take on the Horizon world.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA14632_5900073d4033c43476a999e1b5c349e4ca0c9087ed6b9c21be82b99c460422d1/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA14632_5900073d4033c43476a999e1b5c349e4ca0c9087ed6b9c21be82b99c460422d1/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0615/49738f6fcecfdb8d9aeef78ac743a0caa69317a3671f0a97.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0615/49738f6fcecfdb8d9aeef78ac743a0caa69317a3671f0a97.png?w=260",
+    "publisher": "",
+    "releaseDate": "2024-11-14",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "lego-party",
@@ -17140,6 +17722,49 @@
     "metadataUrl": "https://store.playstation.com/en-us/product/EP1470-PPSA29629_00-MARVELADOTEMUPS5"
   },
   {
+    "id": "marvel-s-spider-man-2",
+    "title": "Marvel's Spider-Man 2",
+    "genre": "",
+    "tagline": "Be greater. Together.",
+    "description": "Peter Parker and Miles Morales swing across an expanded New York to face Kraven the Hunter and the Venom symbiote.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA03016_c0937952c685c6d13973532616989dbe482166fe503abee832828fe6b1e4193b/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA03016_c0937952c685c6d13973532616989dbe482166fe503abee832828fe6b1e4193b/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/1c7b75d8ed9271516546560d219ad0b22ee0a263b4537bd8.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/1c7b75d8ed9271516546560d219ad0b22ee0a263b4537bd8.png?w=260",
+    "publisher": "",
+    "releaseDate": "2023-10-20",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
+    "id": "marvel-s-spider-man-miles-morales",
+    "title": "Marvel's Spider-Man: Miles Morales",
+    "genre": "",
+    "tagline": "Be yourself.",
+    "description": "Teenager Miles Morales protects his new home in Harlem with his own bio-electric powers, as a war breaks out between two factions.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA01417_885d6a2f45ac2b33a8ff2cb3595daaf5374f8afddf9ff336a685e5519a025c11/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA01417_885d6a2f45ac2b33a8ff2cb3595daaf5374f8afddf9ff336a685e5519a025c11/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png?w=260",
+    "publisher": "",
+    "releaseDate": "2020-11-12",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
+    "id": "marvels-avengers-definitive-edition",
+    "title": "Marvel’s Avengers: Definitive Edition",
+    "genre": "",
+    "tagline": "Avengers, assemble.",
+    "description": "Kamala Khan brings the Avengers back together to stop AIM, with every hero and mission released for the game.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA01631_d573b770dd1788eab17d8c8f156525c755a19977088b74189739f6556eae1f1c/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA01631_d573b770dd1788eab17d8c8f156525c755a19977088b74189739f6556eae1f1c/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2021-03-18",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
     "id": "marvels-midnight-suns",
     "title": "Marvel’s Midnight Suns",
     "genre": "Strategy",
@@ -17207,6 +17832,19 @@
       "httpStatus": 206,
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     }
+  },
+  {
+    "id": "marvels-spider-man-remastered",
+    "title": "Marvel’s Spider-Man Remastered",
+    "genre": "",
+    "tagline": "Be your own Spider-Man.",
+    "description": "An experienced Peter Parker protects New York from a wave of supervillains, remastered with all three DLC chapters.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA01467_65184b2f79850da84b1e0f7112b2d4eda08c413a4b48227586cff0aa58beab01/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA01467_65184b2f79850da84b1e0f7112b2d4eda08c413a4b48227586cff0aa58beab01/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2020-11-12",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "marvels-wolverine",
@@ -17734,6 +18372,19 @@
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     },
     "metadataUrl": "https://store.playstation.com/en-us/product/UP0101-PPSA14363_00-MGSCOLLECTION001"
+  },
+  {
+    "id": "metal-gear-solid-snake-eater",
+    "title": "Metal Gear Solid Δ: Snake Eater",
+    "genre": "",
+    "tagline": "The beginning of it all.",
+    "description": "A full remake of Metal Gear Solid 3, as Naked Snake goes behind Soviet lines in 1964 on a mission that defines the series.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA15304_01ba1d67b32a802f97ebc570e2c00d8efb6f4c1abe3f96cc9896ee092744da03/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA15304_01ba1d67b32a802f97ebc570e2c00d8efb6f4c1abe3f96cc9896ee092744da03/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2025-08-28",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "metal-slug-tactics",
@@ -18576,6 +19227,21 @@
     "metadataUrl": "https://store.playstation.com/en-us/concept/10005186"
   },
   {
+    "id": "mortal-kombat-1",
+    "title": "Mortal Kombat 1",
+    "genre": "",
+    "tagline": "A new era of Kombat.",
+    "description": "Fire God Liu Kang’s reborn universe, with a new fighting system that adds Kameo partners to every bout.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA07570_444dc6682d31fab81de35dd6f90ce35d7df030f2b64d295aca008678614282d6/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA07570_444dc6682d31fab81de35dd6f90ce35d7df030f2b64d295aca008678614282d6/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1515/1cc63f4f4b2c9a9852fabefba4ca7eea936b1ef7867811a5.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1515/1cc63f4f4b2c9a9852fabefba4ca7eea936b1ef7867811a5.png?w=260",
+    "publisher": "",
+    "releaseDate": "2023-09-19",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
     "id": "mortal-kombat-11",
     "title": "Mortal Kombat 11",
     "genre": "Fighting",
@@ -18694,6 +19360,21 @@
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     },
     "metadataUrl": "https://store.playstation.com/en-us/product/UP7818-PPSA28068_00-0815314276314981"
+  },
+  {
+    "id": "mortal-shell-enhanced-edition",
+    "title": "Mortal Shell: Enhanced Edition",
+    "genre": "",
+    "tagline": "Inhabit the fallen.",
+    "description": "A harsh action RPG where you possess the shells of fallen warriors, each with its own fighting style, in a dying world.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA02868_101c4354f2c7ef1e7664aed0f7b2d741d63764b2efb007bdbae6c89e0d7c59cb/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA02868_101c4354f2c7ef1e7664aed0f7b2d741d63764b2efb007bdbae6c89e0d7c59cb/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/img/rnd/202103/0410/GKT3pw7UrRCWNOujHj38aIjv.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/img/rnd/202103/0410/GKT3pw7UrRCWNOujHj38aIjv.png?w=260",
+    "publisher": "",
+    "releaseDate": "2021-03-04",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "mothmen-1966",
@@ -19213,6 +19894,19 @@
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     },
     "metadataUrl": "https://store.playstation.com/en-us/product/UP0283-PPSA13790_00-NASCARARCADERUSH/"
+  },
+  {
+    "id": "nba-2k26",
+    "title": "NBA 2K26",
+    "genre": "",
+    "tagline": "Build your legend.",
+    "description": "The NBA basketball game with MyCAREER, MyTEAM collecting and realistic play with current stars.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA28420_e8013dea79d62e0328521a809680268c84c8d7afd410bb341b29dc1fd1baebcf/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA28420_e8013dea79d62e0328521a809680268c84c8d7afd410bb341b29dc1fd1baebcf/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2025-09-05",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "need-for-speed-unbound",
@@ -19749,6 +20443,19 @@
       "httpStatus": 206,
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     }
+  },
+  {
+    "id": "nickelodeon-kart-racers-3-slime-speedway",
+    "title": "Nickelodeon Kart Racers 3: Slime Speedway",
+    "genre": "",
+    "tagline": "Get slimed at speed.",
+    "description": "Kart racing with SpongeBob, the Turtles, Avatar characters and more, rebuilt with new tracks and crew members.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA04339_b4573a11e182f49b15c1e94c9307b2040d582a7ccb05d7ee3da6852fe03fc792/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA04339_b4573a11e182f49b15c1e94c9307b2040d582a7ccb05d7ee3da6852fe03fc792/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2022-10-14",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "night-trap-25th-anniversary-edition",
@@ -20860,6 +21567,21 @@
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     },
     "metadataUrl": "https://store.playstation.com/en-us/concept/231374"
+  },
+  {
+    "id": "overcooked-all-you-can-eat",
+    "title": "Overcooked! All You Can Eat",
+    "genre": "",
+    "tagline": "Too many cooks, in the best way.",
+    "description": "Both Overcooked games and all their extra content remastered, with hundreds of chaotic co-op kitchen levels.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA01528_0f95ea436bb7a4c7130a573b233866a973e552bf65662834bd72ecbf5e768c72/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA01528_0f95ea436bb7a4c7130a573b233866a973e552bf65662834bd72ecbf5e768c72/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/img/rnd/202109/2814/oFU2rGbmW14Pu1cOKGTbU0ye.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/img/rnd/202109/2814/oFU2rGbmW14Pu1cOKGTbU0ye.png?w=260",
+    "publisher": "",
+    "releaseDate": "2020-11-12",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "overpass-2",
@@ -22275,6 +22997,19 @@
     "metadataUrl": "https://store.playstation.com/en-us/product/EP4389-PPSA23372_00-ANIMALGAMEGLOBAL/"
   },
   {
+    "id": "record-of-lodoss-war-deedlit-in-wonder-labyrinth",
+    "title": "Record of Lodoss War: Deedlit in Wonder Labyrinth",
+    "genre": "",
+    "tagline": "An elf in a strange labyrinth.",
+    "description": "Deedlit explores a mysterious labyrinth in a 2D metroidvania, switching between wind and fire spirits.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA05347_8004d6f7db1fad41f1a3b506f36dfd1633227d55747f6f8d4ff7fd70ae86bce2/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA05347_8004d6f7db1fad41f1a3b506f36dfd1633227d55747f6f8d4ff7fd70ae86bce2/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2021-12-16",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
     "id": "redemption-reapers",
     "title": "Redemption Reapers",
     "genre": "Simulation",
@@ -22476,6 +23211,58 @@
     }
   },
   {
+    "id": "resident-evil-2-remake",
+    "title": "Resident Evil 2 (Remake)",
+    "genre": "",
+    "tagline": "Welcome to Raccoon City.",
+    "description": "Rookie cop Leon Kennedy and Claire Redfield fight to escape a city overrun by zombies, in Capcom’s remake.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA04288_92d7b498ec253ebe7bb860408f61a2c34c574f5b51167560ba7a280cde6dbf8d/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA04288_92d7b498ec253ebe7bb860408f61a2c34c574f5b51167560ba7a280cde6dbf8d/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2022-06-13",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
+    "id": "resident-evil-3-remake",
+    "title": "Resident Evil 3 (Remake)",
+    "genre": "",
+    "tagline": "Nemesis is coming.",
+    "description": "Jill Valentine tries to escape Raccoon City while hunted by the relentless Nemesis, in the remake of the 1999 classic.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA03952_6ff25459efd9aa15b118077fa287a3ed8b52beb0b86a95ae28c7b341339c9d49/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA03952_6ff25459efd9aa15b118077fa287a3ed8b52beb0b86a95ae28c7b341339c9d49/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2022-06-13",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
+    "id": "resident-evil-4-remake",
+    "title": "Resident Evil 4 (Remake)",
+    "genre": "",
+    "tagline": "Rescue the president’s daughter.",
+    "description": "Leon Kennedy searches a rural European village gripped by a cult for the kidnapped Ashley Graham, in Capcom’s remake.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA07411_d171f759dbbcca39bc73f7abffa0d3d9ee6672b0a6f381d62526903da21e2786/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA07411_d171f759dbbcca39bc73f7abffa0d3d9ee6672b0a6f381d62526903da21e2786/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2023-03-24",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
+    "id": "resident-evil-requiem",
+    "title": "Resident Evil Requiem",
+    "genre": "",
+    "tagline": "A new nightmare begins.",
+    "description": "FBI analyst Grace Ashcroft investigates mysterious deaths in the next chapter of Capcom’s survival horror series.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA31246_4a51768cd8e2b0a499fb513a854f56bb4d6f233add400f73354ad8fccc4a0d47/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA31246_4a51768cd8e2b0a499fb513a854f56bb4d6f233add400f73354ad8fccc4a0d47/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2026-02-27",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
     "id": "resident-evil-village",
     "title": "Resident Evil Village",
     "genre": "Horror / Action",
@@ -22544,6 +23331,21 @@
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     },
     "metadataUrl": "https://store.playstation.com/en-us/product/UP0102-PPSA01556_00-VILLAGEFULLGAMEX/"
+  },
+  {
+    "id": "returnal",
+    "title": "Returnal",
+    "genre": "",
+    "tagline": "Break the cycle.",
+    "description": "Selene crash-lands on a shifting alien planet and relives each death, in a fast roguelike third-person shooter.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA01285_3d92e95c5c4a15b97ce94d3f7383582c41099b14653361e96512726bfaf97bdf/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA01285_3d92e95c5c4a15b97ce94d3f7383582c41099b14653361e96512726bfaf97bdf/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0415/fkyAEGMueFssDbC4XQpITu6q.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0415/fkyAEGMueFssDbC4XQpITu6q.png?w=260",
+    "publisher": "",
+    "releaseDate": "2021-04-30",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "revenge-of-the-savage-planet",
@@ -23665,6 +24467,21 @@
     }
   },
   {
+    "id": "sackboy-a-big-adventure",
+    "title": "Sackboy: A Big Adventure",
+    "genre": "",
+    "tagline": "Small hero, big adventure.",
+    "description": "Sackboy runs, jumps and grabs his way through colourful 3D worlds to stop Vex, solo or with up to four players.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA01289_958a42f6275bec306ffb381fbf89e0594a217f873dbc373766ff8be2cd90e13a/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA01289_958a42f6275bec306ffb381fbf89e0594a217f873dbc373766ff8be2cd90e13a/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/img/rnd/202010/1614/TJiBEQMJ9qa93lWBu4sKScY9.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/img/rnd/202010/1614/TJiBEQMJ9qa93lWBu4sKScY9.png?w=260",
+    "publisher": "",
+    "releaseDate": "2020-11-12",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
     "id": "saga-of-sins",
     "title": "Saga of Sins",
     "genre": "Action / Arcade",
@@ -23982,6 +24799,21 @@
     }
   },
   {
+    "id": "scars-above",
+    "title": "Scars Above",
+    "genre": "",
+    "tagline": "Survive. Adapt. Overcome.",
+    "description": "Scientist Kate Ward is stranded on an alien planet and must learn its creatures’ weaknesses to survive, in a sci-fi action game.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA08597_2ef717ba952fce638bfa853ae3ddd5f403544a2040eb1ae1241ec0a5de7dc2fe/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA08597_2ef717ba952fce638bfa853ae3ddd5f403544a2040eb1ae1241ec0a5de7dc2fe/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0207/HHr2d7QhP1NFn607YXNB5Upi.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0207/HHr2d7QhP1NFn607YXNB5Upi.png?w=260",
+    "publisher": "",
+    "releaseDate": "2023-02-28",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
     "id": "scorn",
     "title": "Scorn",
     "genre": "Horror / Puzzle",
@@ -24152,6 +24984,21 @@
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     },
     "metadataUrl": "https://store.playstation.com/en-us/concept/10001098"
+  },
+  {
+    "id": "sea-of-stars",
+    "title": "Sea of Stars",
+    "genre": "",
+    "tagline": "Children of the solstice.",
+    "description": "Two warriors of sun and moon set out to stop an alchemist’s creations in a turn-based RPG inspired by the classics.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA07587_15f2e77384e48514b7c051dc50948b37d38f0c196c16edcfd7f32099881f8c54/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA07587_15f2e77384e48514b7c051dc50948b37d38f0c196c16edcfd7f32099881f8c54/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2317/a49622e09a90d32b699213f651de487eb5f249669434e591.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2317/a49622e09a90d32b699213f651de487eb5f249669434e591.png?w=260",
+    "publisher": "",
+    "releaseDate": "2023-08-29",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "selfloss",
@@ -24687,6 +25534,19 @@
       "httpStatus": 206,
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     }
+  },
+  {
+    "id": "silent-hill-2",
+    "title": "Silent Hill 2",
+    "genre": "",
+    "tagline": "A letter from the dead.",
+    "description": "James Sunderland returns to Silent Hill after a letter from his late wife, in Bloober Team’s remake of the classic.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA08709_0b983cefc4d1dcf91cc6c1bf17cc792c8d2b04153392dfebcf084aba0dd7c06f/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA08709_0b983cefc4d1dcf91cc6c1bf17cc792c8d2b04153392dfebcf084aba0dd7c06f/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2024-10-08",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "silent-hill-f",
@@ -25429,6 +26289,19 @@
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     },
     "metadataUrl": "https://store.playstation.com/en-us/product/UP0177-PPSA05324_00-SONICORIGINSPLUS"
+  },
+  {
+    "id": "sonic-racing-crossworlds",
+    "title": "Sonic Racing: CrossWorlds",
+    "genre": "",
+    "tagline": "Race across worlds.",
+    "description": "Sonic and friends race through tracks that warp between worlds mid-race, with custom vehicles and online play.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA08804_d238b6716a9798a6a58e72f5d6ebf584aa9250918023cfedef7303ca1f254fa3/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA08804_d238b6716a9798a6a58e72f5d6ebf584aa9250918023cfedef7303ca1f254fa3/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2025-09-25",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "sonic-unleashed-recompiled-unofficial-port",
@@ -26399,6 +27272,47 @@
     "metadataUrl": "https://store.playstation.com/en-us/concept/10008369"
   },
   {
+    "id": "star-wars-jedi-fallen-order",
+    "title": "Star Wars Jedi: Fallen Order",
+    "genre": "",
+    "tagline": "Survive the purge.",
+    "description": "Padawan Cal Kestis, hiding since Order 66, rebuilds his connection to the Force while hunted by the Empire.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA02199_02517fd50da8c507c538b2dcaa190102c896f0040b8a5d23084b43655e79a09f/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA02199_02517fd50da8c507c538b2dcaa190102c896f0040b8a5d23084b43655e79a09f/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2021-06-11",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
+    "id": "star-wars-jedi-survivor",
+    "title": "Star Wars Jedi: Survivor",
+    "genre": "",
+    "tagline": "A Jedi still standing.",
+    "description": "Cal Kestis, five years on, fights the Empire across the galaxy with new lightsaber stances and Force powers.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA07783_2fad2829f4a18fb4734372c0d89b587ae38170fd89c9c419bdb345e2da51da51/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA07783_2fad2829f4a18fb4734372c0d89b587ae38170fd89c9c419bdb345e2da51da51/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2023-04-28",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
+    "id": "star-wars-outlaws",
+    "title": "Star Wars Outlaws",
+    "genre": "",
+    "tagline": "Risk it all.",
+    "description": "Scoundrel Kay Vess and her companion Nix pull off heists across the galaxy’s underworld, in the first open-world Star Wars.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA08260_761811e955f41a017d67dc335b2657770017f1add0f20ec3d0e5b0b7d6fb3b98/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA08260_761811e955f41a017d67dc335b2657770017f1add0f20ec3d0e5b0b7d6fb3b98/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202306/3020/bca42b94af09b7a7ffd27fcb76a7bb1e46b60ed0c5f99322.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202306/3020/bca42b94af09b7a7ffd27fcb76a7bb1e46b60ed0c5f99322.png?w=260",
+    "publisher": "",
+    "releaseDate": "2024-08-30",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
     "id": "steel-seed-deluxe-edition",
     "title": "Steel Seed Deluxe Edition",
     "genre": "Adventure / Action",
@@ -26771,6 +27685,35 @@
     }
   },
   {
+    "id": "stray",
+    "title": "Stray",
+    "genre": "",
+    "tagline": "Lost, alone, a cat.",
+    "description": "A stray cat explores a neon-lit city of robots, working with a small drone to find its way back to the surface.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA02100_e15a6add8ecf1e715cd8ab7b4d06c0ca93146e8a5f94c77d928797e7e363e139/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA02100_e15a6add8ecf1e715cd8ab7b4d06c0ca93146e8a5f94c77d928797e7e363e139/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0300/E2vZwVaDJbhLZpJo7Q10IyYo.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0300/E2vZwVaDJbhLZpJo7Q10IyYo.png?w=260",
+    "publisher": "",
+    "releaseDate": "2022-07-19",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
+    "id": "street-fighter-6",
+    "title": "Street Fighter 6",
+    "genre": "",
+    "tagline": "Hit the streets.",
+    "description": "Capcom’s fighting game with modern and classic controls, an open-world story mode and a big online hub.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA02633_91f19ff1c8d09e165b92445c90c3a4a624f3dc7eb19530e2ff3e606a566a7876/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA02633_91f19ff1c8d09e165b92445c90c3a4a624f3dc7eb19530e2ff3e606a566a7876/pic0.webp",
+    "heroFallback": "https://cdn.prosperopatches.com/titles/PPSA02633_91f19ff1c8d09e165b92445c90c3a4a624f3dc7eb19530e2ff3e606a566a7876/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2023-06-02",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
     "id": "street-outlaws-2-winner-takes-all",
     "title": "Street Outlaws 2: Winner Takes All",
     "genre": "Arcade / Driving/Racing / Sport",
@@ -27037,6 +27980,19 @@
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     },
     "metadataUrl": "https://store.playstation.com/en-us/concept/235298/"
+  },
+  {
+    "id": "suicide-squad-kill-the-justice-league",
+    "title": "Suicide Squad: Kill the Justice League",
+    "genre": "",
+    "tagline": "Kill the Justice League.",
+    "description": "Harley Quinn, Deadshot, Captain Boomerang and King Shark take on brainwashed heroes in an open-world co-op shooter.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA02182_8ea9967a30bca11c9234a9c8f4ede34a68d32bed1cd104821c0b897d8c026826/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA02182_8ea9967a30bca11c9234a9c8f4ede34a68d32bed1cd104821c0b897d8c026826/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2024-02-02",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "summer-sports-games-4k-edition",
@@ -27475,6 +28431,19 @@
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     },
     "metadataUrl": "https://store.playstation.com/en-us/concept/10004721/"
+  },
+  {
+    "id": "sword-art-online-fractured-daydream",
+    "title": "Sword Art Online: Fractured Daydream",
+    "genre": "",
+    "tagline": "Heroes from every timeline.",
+    "description": "A glitched ALfheim Online system pulls players from across Sword Art Online history into a co-op action RPG.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA06568_0e6fd698a23d1b05e6fd9fcf46f5b8eecf3f67b5603862e7c45466e4fa18beb1/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA06568_0e6fd698a23d1b05e6fd9fcf46f5b8eecf3f67b5603862e7c45466e4fa18beb1/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2024-10-04",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "syberia-remastered",
@@ -28456,6 +29425,21 @@
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     },
     "metadataUrl": "https://store.playstation.com/en-us/product/UP0101-PPSA04489_00-TMNTCOWABUNGAXXX/"
+  },
+  {
+    "id": "tekken-8",
+    "title": "TEKKEN 8",
+    "genre": "",
+    "tagline": "Fist meets fate.",
+    "description": "The Mishima feud reaches its next chapter in a fighting game focused on aggression, with over 30 characters.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA10595_c226743e1e04c3218a06306c7092cd2374ffe2bce016b4da878aa7eb41f05701/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA10595_c226743e1e04c3218a06306c7092cd2374ffe2bce016b4da878aa7eb41f05701/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202212/1621/rCvLik1PKDSoCaEvTIx42H3Q.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202212/1621/rCvLik1PKDSoCaEvTIx42H3Q.png?w=260",
+    "publisher": "",
+    "releaseDate": "2024-01-26",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "terminator-2d-no-fate",
@@ -29632,6 +30616,19 @@
     }
   },
   {
+    "id": "the-last-of-us-part-i",
+    "title": "The Last of Us Part I",
+    "genre": "",
+    "tagline": "Endure and survive.",
+    "description": "Joel escorts Ellie across a ruined America in the remake of Naughty Dog’s story, including the Left Behind prequel.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA03396_757b62553266362f4260588a26ed231386e9b229aad9a61fe8340194ad95ffbf/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA03396_757b62553266362f4260588a26ed231386e9b229aad9a61fe8340194ad95ffbf/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2022-09-02",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
     "id": "the-last-of-us-part-ii-remastered",
     "title": "The Last of Us Part II Remastered",
     "genre": "Adventure / Action",
@@ -30419,6 +31416,21 @@
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     },
     "metadataUrl": "https://store.playstation.com/en-us/product/UP0913-PPSA24381_00-0102018792321079"
+  },
+  {
+    "id": "the-witcher-3-wild-hunt-ps5",
+    "title": "The Witcher 3: Wild Hunt (PS5)",
+    "genre": "",
+    "tagline": "Find Ciri before the Hunt does.",
+    "description": "Geralt of Rivia searches a war-torn continent for his adopted daughter, with both expansions and next-gen upgrades.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA03977_30fa5dd4f55d533c598aa389d8fda743e7056395611805f98f7acaf3fa587ca3/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA03977_30fa5dd4f55d533c598aa389d8fda743e7056395611805f98f7acaf3fa587ca3/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1711/d851895118a16d07706b91e7b69b53ce27531269cad5e968.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1711/d851895118a16d07706b91e7b69b53ce27531269cad5e968.png?w=260",
+    "publisher": "",
+    "releaseDate": "2022-12-14",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "thymesia",
@@ -32347,6 +33359,19 @@
     "metadataUrl": "https://store.playstation.com/en-us/concept/10002464"
   },
   {
+    "id": "uncharted-legacy-of-thieves-collection",
+    "title": "Uncharted: Legacy of Thieves Collection",
+    "genre": "",
+    "tagline": "A thief’s end, and a new path.",
+    "description": "Uncharted 4 and The Lost Legacy remastered, following Nathan Drake, Chloe and Nadine on treasure hunts.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA05389_05d3cb99e51c5df682c9b8a459fc6f8b4d30b2e522b81ec4de40448784cfca74/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA05389_05d3cb99e51c5df682c9b8a459fc6f8b4d30b2e522b81ec4de40448784cfca74/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2022-01-28",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
     "id": "undefeated",
     "title": "Undefeated",
     "genre": "Action",
@@ -32406,6 +33431,21 @@
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     },
     "metadataUrl": "https://store.playstation.com/en-us/concept/10011751"
+  },
+  {
+    "id": "undisputed",
+    "title": "Undisputed",
+    "genre": "",
+    "tagline": "Champions are forged.",
+    "description": "An authentic boxing game with over 100 licensed fighters, realistic footwork and a career mode.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA21914_ce011b67a15af01f56bebf18a0fc88cea46376b59db2b1509da3008a92052ce4/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA21914_ce011b67a15af01f56bebf18a0fc88cea46376b59db2b1509da3008a92052ce4/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202404/2409/3c1a52a8c2497b76cbd89813c9f8f0abe5d224a23fbc29ad.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202404/2409/3c1a52a8c2497b76cbd89813c9f8f0abe5d224a23fbc29ad.png?w=260",
+    "publisher": "",
+    "releaseDate": "2024-10-11",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "unknown-9-awakening",
@@ -32945,6 +33985,21 @@
     "metadataUrl": "https://store.playstation.com/en-us/concept/10004639/"
   },
   {
+    "id": "watch-dogs-legion",
+    "title": "Watch Dogs: Legion",
+    "genre": "",
+    "tagline": "Recruit anyone.",
+    "description": "Build a hacker resistance in a near-future London, recruiting any person you meet to fight a surveillance state.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA01500_475faa2bcefb260e2b475c9776caec813263c37b3eaf2947e1e904be88271d27/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA01500_475faa2bcefb260e2b475c9776caec813263c37b3eaf2947e1e904be88271d27/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202007/0200/ohDfr1TcylLqbwva38ONyLHO.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202007/0200/ohDfr1TcylLqbwva38ONyLHO.png?w=260",
+    "publisher": "",
+    "releaseDate": "2020-11-12",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
+  },
+  {
     "id": "way-of-the-hunter",
     "title": "Way of The Hunter",
     "genre": "Shooter",
@@ -33054,6 +34109,19 @@
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     },
     "metadataUrl": "https://store.playstation.com/en-us/concept/234916/"
+  },
+  {
+    "id": "werewolf-the-apocalypse-earthblood",
+    "title": "Werewolf: The Apocalypse – Earthblood",
+    "genre": "",
+    "tagline": "Unleash the rage.",
+    "description": "Cahal, an exiled werewolf, returns to fight a corporation destroying nature, switching between human, wolf and Crinos forms.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA02113_31f05abaa54cbd740fecb33f049250fbf31630ce5a1ed6b7cf079450abf93af8/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA02113_31f05abaa54cbd740fecb33f049250fbf31630ce5a1ed6b7cf079450abf93af8/pic0.webp",
+    "publisher": "",
+    "releaseDate": "2021-02-04",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "who-wants-to-be-a-millionaire",
@@ -33655,6 +34723,21 @@
       "httpStatus": 206,
       "method": "same title folder as the verified icon + 32-byte WebP header probe"
     }
+  },
+  {
+    "id": "wwe-2k26",
+    "title": "WWE 2K26",
+    "genre": "",
+    "tagline": "The show never stops.",
+    "description": "The WWE wrestling game with a huge roster of current stars and Attitude Era legends, plus story and career modes.",
+    "cover": "https://cdn.prosperopatches.com/titles/PPSA34299_f5d43b042e27d3edd9f17baa0eabdab499fd8a31688bba9bf3349fc016af27f8/icon0.webp",
+    "hero": "https://cdn.prosperopatches.com/titles/PPSA34299_f5d43b042e27d3edd9f17baa0eabdab499fd8a31688bba9bf3349fc016af27f8/pic0.webp",
+    "coverFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2617/7d34370effa78b3d662f03900e7934d577d48b030d192f97.png?w=260",
+    "heroFallback": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2617/7d34370effa78b3d662f03900e7934d577d48b030d192f97.png?w=260",
+    "publisher": "",
+    "releaseDate": "2026-03-13",
+    "artworkLayout": "wide",
+    "addedAt": "2026-10-07T13:36:32+00:00"
   },
   {
     "id": "wwi-isonzo-ultimate-edition",
