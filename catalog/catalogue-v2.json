@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 35,
+  "revision": 36,
   "releases": [
     {
       "id": "ppsa04029-ffpfsc",
@@ -22867,7 +22867,7 @@
       "pickOrder": 0
     },
     {
-      "id": "wuchang-fallen-feathers-deluxe-edition-ffpfsc",
+      "id": "ppsa09518-ffpfsc",
       "gameId": "wuchang-fallen-feathers-deluxe-edition",
       "titleId": "PPSA09518",
       "title": "WUCHANG Fallen Feathers Deluxe Edition",
@@ -22894,7 +22894,7 @@
       "pickOrder": 0
     },
     {
-      "id": "assassins-creed-shadows-ppsa20396-ffpfsc",
+      "id": "ppsa20396-ffpfsc",
       "gameId": "assassins-creed-shadows-ppsa20396",
       "titleId": "PPSA20396",
       "title": "Assassins Creed Shadows",
@@ -22920,7 +22920,7 @@
       "pickOrder": 0
     },
     {
-      "id": "stellar-blade-complete-edition-ffpfsc",
+      "id": "ppsa13197-ffpfsc",
       "gameId": "stellar-blade-complete-edition",
       "titleId": "PPSA13197",
       "title": "Stellar Blade™ Complete Edition",
@@ -22947,7 +22947,7 @@
       "pickOrder": 0
     },
     {
-      "id": "stellar-blade-complete-edition-ppsa13197-ffpfsc",
+      "id": "ppsa13197-ffpfsc-2",
       "gameId": "stellar-blade-complete-edition-ppsa13197",
       "titleId": "PPSA13197",
       "title": "Stellar Blade™ Complete Edition",
@@ -23000,7 +23000,7 @@
       "pickOrder": 0
     },
     {
-      "id": "grand-theft-auto-v-ppsa04263-ffpfsc",
+      "id": "ppsa04263-ffpfsc",
       "gameId": "grand-theft-auto-v-ppsa04263",
       "titleId": "PPSA04263",
       "title": "Grand Theft Auto V",
@@ -23026,7 +23026,7 @@
       "pickOrder": 0
     },
     {
-      "id": "dead-island-2-ultimate-edition-ffpfsc",
+      "id": "ppsa03098-ffpfsc",
       "gameId": "dead-island-2-ultimate-edition",
       "titleId": "PPSA03098",
       "title": "Dead Island 2 Ultimate Edition",
@@ -23053,7 +23053,7 @@
       "pickOrder": 0
     },
     {
-      "id": "double-dragon-gaiden-rise-of-the-dragons-ppsa16018-ffpfsc",
+      "id": "ppsa16018-ffpfsc",
       "gameId": "double-dragon-gaiden-rise-of-the-dragons-ppsa16018",
       "titleId": "PPSA16018",
       "title": "Double Dragon Gaiden : Rise of the Dragons",
@@ -23079,7 +23079,7 @@
       "pickOrder": 0
     },
     {
-      "id": "lords-of-the-fallen-ppsa07064-ffpfsc",
+      "id": "ppsa07064-ffpfsc",
       "gameId": "lords-of-the-fallen-ppsa07064",
       "titleId": "PPSA07064",
       "title": "Lords of the Fallen",
@@ -23105,7 +23105,7 @@
       "pickOrder": 0
     },
     {
-      "id": "wwe-2k24-forty-years-of-wrestlemania-edition-ffpfsc",
+      "id": "ppsa16306-ffpfsc",
       "gameId": "wwe-2k24-forty-years-of-wrestlemania-edition",
       "titleId": "PPSA16306",
       "title": "WWE 2K24 Forty Years of WrestleMania Edition",
@@ -23131,7 +23131,7 @@
       "pickOrder": 0
     },
     {
-      "id": "uncharted-legacy-of-thieves-collection-ppsa05684-ffpfsc",
+      "id": "ppsa05684-ffpfsc",
       "gameId": "uncharted-legacy-of-thieves-collection-ppsa05684",
       "titleId": "PPSA05684",
       "title": "Uncharted Legacy of Thieves Collection",
@@ -23157,7 +23157,7 @@
       "pickOrder": 0
     },
     {
-      "id": "thymesia-ppsa05214-ffpfsc",
+      "id": "ppsa05214-ffpfsc",
       "gameId": "thymesia-ppsa05214",
       "titleId": "PPSA05214",
       "title": "Thymesia",
@@ -23183,7 +23183,7 @@
       "pickOrder": 0
     },
     {
-      "id": "ea-sports-wrc-ppsa10695-ffpfsc",
+      "id": "ppsa10695-ffpfsc",
       "gameId": "ea-sports-wrc-ppsa10695",
       "titleId": "PPSA10695",
       "title": "EA Sports WRC",
@@ -23209,7 +23209,7 @@
       "pickOrder": 0
     },
     {
-      "id": "the-first-berserker-khazan-ffpfsc",
+      "id": "ppsa20447-ffpfsc",
       "gameId": "the-first-berserker-khazan",
       "titleId": "PPSA20447",
       "title": "The First Berserker Khazan",
@@ -23261,7 +23261,7 @@
       "pickOrder": 0
     },
     {
-      "id": "mafia-the-old-country-deluxe-edition-ffpfsc",
+      "id": "ppsa14299-ffpfsc",
       "gameId": "mafia-the-old-country-deluxe-edition",
       "titleId": "PPSA14299",
       "title": "Mafia The Old Country: Deluxe Edition",
@@ -23287,7 +23287,7 @@
       "pickOrder": 0
     },
     {
-      "id": "alone-in-the-dark-ppsa08240-ffpfsc",
+      "id": "ppsa08240-ffpfsc",
       "gameId": "alone-in-the-dark-ppsa08240",
       "titleId": "PPSA08240",
       "title": "Alone In The Dark",
@@ -23313,7 +23313,7 @@
       "pickOrder": 0
     },
     {
-      "id": "astro-bot-ppsa21564-ffpfsc",
+      "id": "ppsa21564-ffpfsc",
       "gameId": "astro-bot-ppsa21564",
       "titleId": "PPSA21564",
       "title": "ASTRO BOT",
