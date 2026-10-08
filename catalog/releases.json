@@ -28,7 +28,8 @@
       },
       "consoleVerified": false,
       "url": "https://archive.org/download/PPSA04029-Cyberpunk-2077/PPSA04029%20Cyberpunk%202077.ffpfsc"
-    }
+    },
+    "pickOrder": 7
   },
   {
     "id": "ppsa25380-ffpfsc",
@@ -9630,7 +9631,8 @@
       "sizeBytes": 124211822592,
       "method": "Public file listing; download is validated after user browser verification",
       "consoleVerified": false
-    }
+    },
+    "pickOrder": 5
   },
   {
     "id": "ppsa05666-vf-XIaR68B19J",
@@ -18605,7 +18607,8 @@
     "url": "https://archive.org/download/PPSA04264_GTAV/PPSA04264%20Grand%20Theft%20Auto%20V.ffpfsc",
     "sha256": "",
     "sourceId": "archive",
-    "gameId": "grand-theft-auto-v"
+    "gameId": "grand-theft-auto-v",
+    "pickOrder": 3
   },
   {
     "id": "ppsa02225-ffpfsc",
@@ -18852,7 +18855,8 @@
     "url": "https://archive.org/download/PPSA23226_Black_Myth_Wukong_4xx/PPSA23226%20-%20Black%20Myth%20Wukong%204xx.ffpfsc",
     "sha256": "",
     "sourceId": "archive",
-    "gameId": "black-myth-wukong"
+    "gameId": "black-myth-wukong",
+    "pickOrder": 10
   },
   {
     "id": "ppsa08709-ffpfsc",
@@ -18917,7 +18921,8 @@
     "url": "https://archive.org/download/PPSA21567_ASTROBOT_4xx/PPSA21567%20-%20ASTRO%20BOT_4xx.ffpfsc",
     "sha256": "",
     "sourceId": "archive",
-    "gameId": "astro-bot"
+    "gameId": "astro-bot",
+    "pickOrder": 9
   },
   {
     "id": "ppsa08260-ffpfsc",
@@ -18956,7 +18961,8 @@
     "url": "https://archive.org/download/PPSA03016_spiderman2/PPSA03016%20-%20spiderman2.ffpfsc",
     "sha256": "",
     "sourceId": "archive",
-    "gameId": "marvel-s-spider-man-2"
+    "gameId": "marvel-s-spider-man-2",
+    "pickOrder": 1
   },
   {
     "id": "ppsa28180-ffpfsc",
@@ -19021,7 +19027,8 @@
     "url": "https://archive.org/download/PPSA08330_GOW_Ragnarok/PPSA08330%20GOW%20Ragnarok.ffpfsc",
     "sha256": "",
     "sourceId": "archive",
-    "gameId": "god-of-war-ragnarok"
+    "gameId": "god-of-war-ragnarok",
+    "pickOrder": 2
   },
   {
     "id": "ppsa01285-ffpfsc",
@@ -19125,7 +19132,8 @@
     "url": "https://archive.org/download/PPSA03396_Tlou_Part1/PPSA03396%20Tlou%20Part1.ffpfsc",
     "sha256": "",
     "sourceId": "archive",
-    "gameId": "the-last-of-us-part-i"
+    "gameId": "the-last-of-us-part-i",
+    "pickOrder": 6
   },
   {
     "id": "ppsa20560-ffpfsc",
@@ -19216,7 +19224,8 @@
     "url": "https://archive.org/download/PPSA04609_Elden_Ring/PPSA04609%20Elden_Ring.ffpfsc",
     "sha256": "",
     "sourceId": "archive",
-    "gameId": "elden-ring"
+    "gameId": "elden-ring",
+    "pickOrder": 4
   },
   {
     "id": "ppsa01968-ffpfsc",
@@ -19333,7 +19342,8 @@
     "url": "https://archive.org/download/PPSA07411-RE4/PPSA07411%20RE4.ffpfsc",
     "sha256": "",
     "sourceId": "archive",
-    "gameId": "resident-evil-4-remake"
+    "gameId": "resident-evil-4-remake",
+    "pickOrder": 8
   },
   {
     "id": "ppsa17905-ffpfsc",
@@ -19528,7 +19538,8 @@
     "url": "https://archive.org/download/PPSA21567_ASTROBOT/PPSA21567%20-%20ASTRO%20BOT.ffpfsc",
     "sha256": "",
     "sourceId": "archive",
-    "gameId": "astro-bot"
+    "gameId": "astro-bot",
+    "pickOrder": 9
   },
   {
     "id": "ppsa21914-f47f85d3",
@@ -19567,7 +19578,8 @@
     "url": "https://archive.org/download/PPSA23226_Wukong_9xx/PPSA23226%20-%20Wukong_9xx.ffpfsc",
     "sha256": "",
     "sourceId": "archive",
-    "gameId": "black-myth-wukong"
+    "gameId": "black-myth-wukong",
+    "pickOrder": 10
   },
   {
     "id": "ppsa14501-d82673a5",
